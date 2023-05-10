@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning NodeJS, Backend and Frontend
 
-👯 I’m seeking an internship on **Software Developer (Web & Mobile)**.
+👯 I’m seeking an internship on **Software Developer (Web)**.
 
 👨‍💻 All of my projects are available at [https://github.com/vankha1](https://github.com/vankha1)
 
