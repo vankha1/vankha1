@@ -4,7 +4,7 @@
 
 🔭 I’m a second-year student studying Computer Science at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning NodeJS, Backend and Frontend
+🌱 I’m currently learning Backend and Frontend
 
 👯 I’m seeking an internship on **Software Developer (Web)**.
 
