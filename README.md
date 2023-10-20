@@ -4,13 +4,11 @@
 
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University, Viet Nam. 
 
-👀 I’m interested in Software and Data.
+👀 I’m interested in Software.
 
-🌱 I’m currently learning Backend (NodeJS) and Frontend (ReactJS).
+🌱 I’m currently learning Backend and Frontend.
 
 💞️ I’m looking to collaborate on Web development.
-
-🤝 I’m looking for help with DevOps.
 
 👯 I’m seeking an internship on **Software Developer (Web)**.
 
