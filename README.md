@@ -79,6 +79,8 @@
 
 # 📊 GitHub Stats
 
+<a href="https://git.io/streak-stats"><img style="margin: auto;" src="https://streak-stats.demolab.com?user=vankha1&theme=monokai&hide_border=true" alt="GitHub Streak" /></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vankha1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankha1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
