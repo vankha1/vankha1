@@ -2,15 +2,13 @@
 
 <img width="33%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-🔭 I’m a third-year student studying Computer Science at Bach Khoa University, Viet Nam. 
+🔭 I’m a final student studying Computer Science at Bach Khoa University, Viet Nam. 
 
 👀 I’m interested in Software.
 
 🌱 I’m currently learning Backend and Frontend.
 
-💞️ I’m looking to collaborate on Web development.
-
-👯 I’m seeking an internship on **Software Developer (Web)**.
+👯 I’m seeking a fulltime job on **Software Engineering**.
 
 👨‍💻 All of my projects are available at [https://github.com/vankha1](https://github.com/vankha1)
 
