@@ -70,10 +70,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 # 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats"><img style="margin: auto;" src="https://streak-stats.demolab.com?user=vankha1&theme=monokai&hide_border=true" alt="GitHub Streak" /></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vankha1&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankha1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img style="margin: auto;" src="https://streak-stats.demolab.com?user=vankha1&theme=monokai&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vankha1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vankha1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
 
